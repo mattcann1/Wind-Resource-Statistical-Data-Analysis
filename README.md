@@ -5,8 +5,11 @@ Based on the data set (Met_Data_2016) which contains six months of wind measurem
 
 ## Wind Data Characteristics
 Average wind speed and standard deviation for all the data.
-
 ![](Figures/%20average.png)
+
+Average wind speed for each month in the six month range.
+![](Figures/months.png.png)
+
 
 
 
