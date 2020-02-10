@@ -10,8 +10,17 @@ Average wind speed and standard deviation for all the data.
 
 Average wind speed for each month in the six month range.
 
-![](Figures/%20months.png)
+![](Figures/months.png)
+
+Wind speed over a single day.
+
+![](Figures/windover1day.png)
 
 
+Turbulence intensity at 20, 50 and 80 m and compared to IEC high/low values.
 
+![](Figures/Turbulence_intensity@20.png)
+![](Figures/Turbulence_intensity@50.png)
+![](Figures/Turbulence_intensity@80.png)
 
+![](Figures/Super_2m.png)
