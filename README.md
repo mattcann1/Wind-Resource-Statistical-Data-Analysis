@@ -10,7 +10,7 @@ Average wind speed and standard deviation for all the data.
 
 Average wind speed for each month in the six month range.
 
-![](Figures/%20months.png.png)
+![](Figures/%20months.png)
 
 
 
