@@ -6,7 +6,7 @@ Based on the data set (Met_Data_2016) which contains six months of wind measurem
 ![](https://raw.githubusercontent.com/mattcann1/Wind_Energy/master/Figures/%20average.png)
 
 
-![](Figures/20average.PNG)
+![](Figures/%20average.png)
 
 
 
