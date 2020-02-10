@@ -23,4 +23,4 @@ Turbulence intensity at 20, 50 and 80 m and compared to IEC high/low values.
 ![](Figures/Turbulence_intensity@50.png)
 ![](Figures/Turbulence_intensity@80.png)
 
-![](Figures/Super_2m.png)
+![](Figures/%20Super_2m.png,Figures/%20Super_5m.png)
